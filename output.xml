@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<root>
+  <element id="1">
+    <title>Национальный фонд исследований Украины приглашает к сотрудничеству</title>
+    <data>01.04.2020</data>
+    <text>Национальный фонд исследований Украины начинает конкурсную деятельность, направленную на грантовую поддержку проектов по выполнению научных исследований и разработок отечественных ученых.</text>
+    <category>Новости</category>
+  </element>
+  <element id="2">
+    <title>Внимание! Карантин продлен!</title>
+    <data>30.03.2020</data>
+    <text>11 марта 2020 Кабинет Министров Украины принял решение о введении карантина для всех типов учебных заведений. Во исполнение решения Кабинета Министров Украины от 25 марта 2020 (№239) года в ХНУРЭ продлен карантин согласно приказу №148 от 30 03. 2020.</text>
+    <category>Новости</category>
+  </element>
+  <element id="3">
+    <title>Представители ХНУРЭ приняли участие в вебинаре в рамках All Digital Week</title>
+    <data>30.03.2020</data>
+    <text>Кафедра системотехники Харьковского национального университета радиоэлектроники, в рамках работы над проектом Erasmus + dComFra, присоединилась к европейской инициативе All Digital Week</text>
+    <category>Новости</category>
+  </element>
+  <element id="4">
+    <title>ХНУРЭ присоединился к программе «Coursera Coronavirus Response Initiative»</title>
+    <data>26.03.2020</data>
+    <text>С целью минимизации влияния вспышки коронавируса (COVID-19) на студентов, сообщество онлайн-обучения Coursera делает глобальные усилия, чтобы помочь университетам доставлять учебные материалы онлайн.</text>
+    <category>Новости</category>
+  </element>
+  <element id="5">
+    <title>Олимпиада</title>
+    <tag>#АБИТУРИЕНТАМ</tag>
+    <text>Приглашаем принять участие во Всеукраинской олимпиаде ХНУРЭ для абитуриентов на основе полного среднего образования</text>
+    <ref>https://nure.ua/ru/olimpiada-po-predmetam-vno-v-hnurje</ref>
+  </element>
+  <element id="6">
+    <title>Подготовительное отделение ХНУРЭ</title>
+    <tag>#Школьникам</tag>
+    <text>Подготовительное отделение приглашает Вас на заочную и очно-заочную форму обучения!Подача заявлений: сентябрь-октябрь 2019 года+38 (057) 702-14-55 </text>
+    <ref>https://nure.ua/ru/branch/podgotovitelnoe-otdelenie</ref>
+  </element>
+  <element id="7">
+    <title>Курсы на базе ХНУРЭ</title>
+    <tag>#Skills School NURE</tag>
+    <text>Образовательная инициатива ХНУРЭ, которая даёт дополнительные возможности профессионального и творческого развития!</text>
+    <ref>/ru/skills-school</ref>
+  </element>
+  <element id="8">
+    <title>Перечень специальностей</title>
+    <tag>Абитуриентам</tag>
+    <text>Уважаемые абитуриенты!Предлагаем ознакомиться с перечнем специальностей и образовательных программ  Харьковского национального университета радиоэлектроники!</text>
+    <ref>/ru/abiturientam/spetsialnosti-i-spetsializatsii</ref>
+  </element>
+  <element id="9">
+    <title>QS University Rankings: Emerging Europe and Central Asia 2020</title>
+    <tag>#Рейтинги</tag>
+    <text>ХНУРЕ увійшов до регіонального рейтингу «QS University Rankings: Emerging Europe and Central Asia 2020». https://www.topuniversities.com/university-rankings/eeca-rankings/2020</text>
+    <ref>https://www.topuniversities.com/university-rankings/eeca-rankings/2020</ref>
+  </element>
+</root>
